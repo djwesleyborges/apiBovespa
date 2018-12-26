@@ -1,0 +1,1 @@
+web: gunicorn apiBovespa.wsgi --log-file -
